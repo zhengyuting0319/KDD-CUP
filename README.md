@@ -1,5 +1,7 @@
 # CS150 Database and Data Mining Project 
 
+### Our team use several Machine Learning models to predict students behavior in tutorial questions.
+
 ## Logistics
 
 Please type your Chinese name and ID.
